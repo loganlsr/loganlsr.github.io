@@ -1,0 +1,96 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+​
+    html {
+      height: 100%;
+    }
+    body {
+       width: 800px;
+       height: 100%;
+       background-color: #73716A;
+    }
+​
+    header {
+        background-color: gray;
+        color: white;
+        height: 30px;
+        border: 1px solid black;
+        text-align: center;
+        vertical-align: ;
+        padding: 30px;
+        font-size: ;
+        display: block;
+    }
+    .subHeader {
+        background-color: orange;
+        height: 25px;
+        width: 738px;
+        color: white;
+        border: 1px solid black;
+        display: inline-block;
+    }
+​
+    nav {
+        float: left;
+        background-color: gray;
+        width: 798px;
+        border: 1px solid black;
+        text-align: center;
+        display: block;
+    }
+    nav ul {
+        padding: ;
+        position: relative;
+        background-color: gray;
+        border: 0px;
+        width: 300px;
+        left: 230px;
+        float: left;
+        border-bottom: ;
+        list-style-type: none;
+        display: block;
+    }
+    nav li {
+        float: left;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 73%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    ul {
+        color: black;
+        background-color: FFFCDB;
+        border: 1px dotted black;
+        position: relative;
+        left: 0px;
+        width: 758px;
+        list-style: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        color:;
+        clear: both;
+        display: block;
+    }
